@@ -58,20 +58,11 @@ Cách khắc phục: Sử dụng Appium Inspector để tìm XPath thay thế.
 
 ### Kết quả chạy kiểm thử
 
-- **Màn hình nhập biểu thức thành công:**  
-  ![Kết quả nhập biểu thức](Kết quả.png)
-
-- **Lỗi nhập biểu thức:**  
-  ![Lỗi nhập biểu thức](input_error.png)
-
-- **Lỗi không tìm thấy bàn phím:**  
-  ![Lỗi không tìm thấy bàn phím](keyboard_not_found.png)
-
-- **Lỗi không tìm thấy nút lịch sử:**  
-  ![Lỗi không tìm thấy nút lịch sử](history_button_not_found.png)
-
-- **Lỗi hiển thị kết quả:**  
-  ![Lỗi hiển thị kết quả](result_error.png)
-
-- **Lỗi nhập thủ công:**  
-  ![Lỗi nhập thủ công](manual_input_error.png)
+<p align="center">
+  <img src="Kết quả.png" alt="Kết quả nhập biểu thức" width="200"/>
+  <img src="input_error.png" alt="Lỗi nhập biểu thức" width="200"/>
+  <img src="keyboard_not_found.png" alt="Lỗi không tìm thấy bàn phím" width="200"/>
+  <img src="history_button_not_found.png" alt="Lỗi không tìm thấy nút lịch sử" width="200"/>
+  <img src="result_error.png" alt="Lỗi hiển thị kết quả" width="200"/>
+  <img src="manual_input_error.png" alt="Lỗi nhập thủ công" width="200"/>
+</p>
